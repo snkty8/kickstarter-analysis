@@ -49,7 +49,7 @@ Analysis of Challange 1
 	during the month of December.
 	
 	The lower the goal, the more successful they were in acheiving.  
-	This is clearly seen in the excel file as well as the chart.
+	This is clearly seen in the excel file as well as the Outcomes Vs Goals Chart.
 	
 	None of the live shows are taken into account.  The is somewhat skewed due 
 	this the fact.  It doesn't take into account if these shows 
