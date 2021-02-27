@@ -62,7 +62,5 @@ Analysis of Challange 1
 	
 	None of the live shows are taken into account.  The is somewhat skewed due 
 	this the fact.  It doesn't take into account if these shows 
-	met thier goals or not.  Location would be a good focal point, as well.  Although I've made assumptions about the weather being a factor, I cannot say for certain this was the case.
-	
-	Actual statical analysis would have nice to see if there are 
+	met thier goals or not.  Location would be a good focal point, as well.  Although I've made assumptions about the weather being a factor, I cannot say for certain this was the case. Actual statical analysis would have nice to see if there are 
 	any outliers, or shows that stood out.
